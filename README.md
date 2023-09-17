@@ -1,5 +1,5 @@
 # vue-practice
-### vuedongsan  
+### vuedongsan (private)  
 강의  
 코딩애플/코딩애플  
 2023-09-11 ~  
